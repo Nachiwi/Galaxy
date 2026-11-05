@@ -134,7 +134,7 @@ const recuerdos = [
     x: 40,
     y: 15,
     imagen: "",
-    audio: "cancion.mp3",
+    audio: "universe.mp3",
     nueva: true,
     especial: true
   }
