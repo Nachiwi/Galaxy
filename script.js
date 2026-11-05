@@ -132,7 +132,7 @@ const recuerdos = [
     titulo: "Aún quedan estrellas",
     texto: "Hubo un momento en el que nuestra galaxia dejó de recibir nuevas estrellas, pero nunca dejó de brillar. Y hoy, una pequeña señal me recordó que quizá todavía existen recuerdos esperando convertirse en parte de nuestro universo. Así que aquí estamos, descubriendo que aún quedan estrellas por conocer.",
     x: 45,
-    y: 82,
+    y: 50,
     imagen: "",
     audio: "",
     nueva: true,
