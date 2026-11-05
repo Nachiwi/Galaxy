@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -17,7 +18,7 @@ body {
   position: relative;
 }
 
-/* Estrellas */
+/* Estrellas originales */
 .estrella {
   width: 12px;
   height: 12px;
@@ -62,4 +63,41 @@ body {
   cursor: pointer;
   float: right;
   font-size: 24px;
+}
+
+/* Nuevos recuerdos en morado */
+.estrella.estrella-nueva {
+  background: #b388ff;
+  box-shadow:
+    0 0 10px #b388ff,
+    0 0 20px #9855ff,
+    0 0 30px #7733cc;
+}
+
+/* Estrella especial: Aún quedan estrellas */
+.estrella.estrella-especial {
+  background: #e1b8ff;
+  animation: pulsoMorado 3s ease-in-out infinite;
+}
+
+@keyframes pulsoMorado {
+  0%, 100% {
+    box-shadow:
+      0 0 10px #c49aff,
+      0 0 20px #9b5de5;
+  }
+
+  50% {
+    box-shadow:
+      0 0 20px #e1b8ff,
+      0 0 35px #b388ff,
+      0 0 50px #8240ff;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .estrella.estrella-especial {
+    animation: none;
+    box-shadow: 0 0 20px #b388ff;
+  }
 }
