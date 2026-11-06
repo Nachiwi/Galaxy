@@ -146,6 +146,15 @@ const recuerdos = [
     imagen: "assets/dibujo.jpeg",
     audio: "",
     nueva: true,
+  },
+   {
+    titulo: "¿Y si las estrellas nos vuelven a encontrar?",
+    texto: "Probablemente esta estrella se encuentre a años luz de convertirse en un recuerdo. Quizá sea un momento que todavía está esperando su lugar en nuestro universo, o quizá sea uno de esos sueños que permanecen brillando a lo lejos, incluso cuando no sabemos si algún día podremos alcanzarlos.Puede que sea en esta vida cuando nuestros caminos vuelvan a encontrarse de aquella manera tan bonita en la que alguna vez coincidieron. Puede que sea en otra, bajo un cielo completamente distinto, con otros nombres, otras historias y otras circunstancias. O puede que esta haya sido la única vida en la que tuvimos la fortuna de amarnos como lo hicimos.Pero, si pudiera elegir, ten por seguro que estaría dispuesto a esperar el tiempo que hiciera falta, incluso las vidas que tuvieran que pasar, con tal de tener una nueva oportunidad de coincidir contigo.Y si el destino me concediera la fortuna de conocerte en otra vida, me gustaría volver a descubrirte desde el principio. Conocer tu sonrisa sin saber todavía cuánto terminaría gustándome, escuchar tu risa sin imaginar lo mucho que llegaría a significar para mí y perderme nuevamente en esos ojos que, incluso hoy, me siguen pareciendo únicos.Y, sobre todo, espero tener la fortuna de enamorarme de ti todavía más de lo que lo hice en esta vida. Porque si algo tengo claro es que, aun conociendo el desenlace de nuestra historia, volvería a elegir conocerte.Pero... ¿y si no hiciera falta esperar otra vida?¿Y si este mismo universo, que alguna vez tuvo la fortuna de vernos juntos, decidiera regalarnos una nueva oportunidad de encontrarnos?Si algún día tu corazón y el mío volvieran a coincidir de esa manera, me gustaría hacerlo diferente. No porque me arrepienta de haberte amado como lo hice, sino porque ahora conozco cosas que antes no sabía, he reconocido errores que no quisiera repetir y he aprendido que amar también significa comprender, escuchar, cuidar y crecer.Y si llegara a tener esa grandiosa suerte, quisiera cuidar con espada y escudo ese corazón tan lindo, esa mirada tan única y esa alma tuya que, sin siquiera proponérselo, logró traerle tanta tranquilidad a la mía.No podría prometerte una historia sin dificultades ni errores, pero sí el deseo sincero de construir algo más bonito, más consciente y más fuerte, donde ambos podamos sentirnos queridos, comprendidos y en paz.Tal vez esta estrella tarde años en tener una historia que contar. Tal vez nunca llegue a convertirse en el recuerdo que imagino. Y está bien, porque hay estrellas que no necesitan una respuesta inmediata para seguir siendo especiales.Pero si algún día la vida nos permite volver a encontrarnos, espero que podamos mirarnos y descubrir que, después de todo, todavía había un universo entero por conocer juntos.Y si no es en esta vida, quizá en alguna otra, entre millones de estrellas, tenga la fortuna de encontrarte una vez más.",
+    x: 67,
+    y: 18,
+    imagen: "",
+    audio: "",
+    nueva: true,
   }
 ];
 
