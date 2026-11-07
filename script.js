@@ -84,7 +84,7 @@ const recuerdos = [
     titulo: "Amarte",
     texto: "Si me dieran la oportunidad de pedir un deseo, pediria mil vidas y en todas ellas me encargaría de buscarte, encontrarte y volver a enamorarnos. Po ruq esto que siento por ti es tan profundo e intenso que no cabe en esta vida, ni en un millon de ellas",
     x: 30,
-    y: 90,
+    y: 16,
     imagen: "assets/foto1.jpg",
     audio: ""
   },
