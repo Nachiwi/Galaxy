@@ -143,7 +143,7 @@ const recuerdos = [
     texto: "Este dibujito tan bonito que hiciste, que aunque nunca tuve la oportunidad de verlo en físico, eso no le quita lo especial que es para mí.Y es que, entre tantos trazos, líneas y pequeños garabatos, hay un detallito que me gusta muchísimo: ahí estamos nosotros dos.No sé cómo explicarlo, pero me da mucha ternura pensar que incluso en algo tan sencillo como un dibujo encontraste un lugarcito para ponerme junto a ti. Tal vez para alguien más no sea más que un pequeño garabato en una hoja, pero para mí es uno de esos detalles que guardo con muchísimo cariño.Porque no siempre se necesitan grandes regalos, palabras bonitas o momentos extraordinarios para hacer sentir especial a alguien. A veces basta con algo tan sencillo como tomar un lapicero, comenzar a dibujar y, sin darte cuenta, regalarle a alguien un recuerdo que va a conservar con una sonrisa.Y es que, de todos los lugares en los que podría aparecer, jamás imaginé que uno de los más bonitos sería entre tus garabatos.Un dibujito donde, entre tantas cosas, encontraste la manera de que estuviéramos juntitos.",
     x: 55,
     y: 25,
-    imagen: "assets/dibujo.jpeg",
+    imagen: "assets/dibujomini.jpeg",
     audio: "",
     nueva: true,
   },
