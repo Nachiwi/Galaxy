@@ -164,6 +164,15 @@ const recuerdos = [
     imagen: "",
     audio: "",
     nueva: true,
+  },
+  {
+    titulo: "11/11",
+    texto: "Hoy es 11 del 11 y siendo las 11:11, quiero que sepas que sigues y seguirás siendo mi único deseo",
+    x: 25,
+    y: 25,
+    imagen: " ",
+    audio: " ",
+    nueva: true,
   }
 ];
 
