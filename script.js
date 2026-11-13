@@ -173,7 +173,25 @@ const recuerdos = [
     imagen: "",
     audio: "",
     nueva: true,
-  }
+  },
+   {
+    titulo: "Donde nuestras almas aún coinciden",
+    texto: "Dicen que la luz de las estrellas puede viajar durante años antes de llegar a nuestros ojos. Quizá con estas canciones suceda algo parecido. Cada una guarda un instante, una mirada, una sonrisa o un recuerdo de aquello tan bonito que alguna vez experimentamos juntos. Y aunque hoy nuestros caminos sean distintos, me gusta pensar que, en algún rincón del universo, estas melodías seguiran sonando. Porque hay personas que se convierten en recuerdos, pero también hay recuerdos que se convierten en eternidad.",
+    x: 35,
+    y: 28,
+    imagen: "paraella",
+    audio: "",
+    nueva: true,
+  },
+  {
+    titulo: "Mi viernes 13",
+    texto: "Dicen que los viernes 13 traen mala suerte, que son días en los que el destino parece jugar en nuestra contra. Pero yo creo que la suerte es algo curioso, porque entre tantas personas, tantos lugares y tantos momentos posibles, la vida decidió que nuestros caminos se cruzaran. Y aunque no sé qué nos depare el destino, hay algo de lo que siempre estaré seguro: conocerte fue una de las mayores fortunas que me pudo regalar la vida. Por eso, en este viernes 13, quise regalarte una estrella. No para cambiar nuestro destino, ni para pedirle al universo que nos conceda algo, sino para desearte toda la suerte, tranquilidad y felicidad que mereces. Porque incluso en los días considerados de mala suerte, existen personas que siempre serán un golpe de fortuna. Y tú, para mí, siempre serás una de ellas Ma chérie",
+    x: 19,  
+    y: 25,
+    imagen: "",
+    audio: "viernes13.mp3",
+    nueva: true,
+  },
 ];
 
 // Referencias
