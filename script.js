@@ -179,7 +179,7 @@ const recuerdos = [
     texto: "Dicen que la luz de las estrellas puede viajar durante años antes de llegar a nuestros ojos. Quizá con estas canciones suceda algo parecido. Cada una guarda un instante, una mirada, una sonrisa o un recuerdo de aquello tan bonito que alguna vez experimentamos juntos. Y aunque hoy nuestros caminos sean distintos, me gusta pensar que, en algún rincón del universo, estas melodías seguiran sonando. Porque hay personas que se convierten en recuerdos, pero también hay recuerdos que se convierten en eternidad.",
     x: 35,
     y: 28,
-    imagen: "paraella",
+    imagen: "assets/paraella",
     audio: "",
     nueva: true,
   },
@@ -189,7 +189,7 @@ const recuerdos = [
     x: 19,  
     y: 25,
     imagen: "",
-    audio: "viernes13.mp3",
+    audio: "assets/viernes13.mp3",
     nueva: true,
   },
 ];
